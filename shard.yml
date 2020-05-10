@@ -1,0 +1,13 @@
+name: crystal-serverless
+version: 0.1.0
+
+authors:
+  - Paul M. Lambert <plambert@plambert.net>
+
+targets:
+  crystal-serverless:
+    main: src/crystal-serverless.cr
+
+crystal: 0.34.0
+
+license: MIT
